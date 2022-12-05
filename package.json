@@ -1,17 +1,20 @@
 {
-  "name": "facebook",
+  "name": "demo_project",
   "version": "1.0.0",
-  "description": "This is project for practice tailwind css",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "vite"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "tailwindcss": "^3.2.4"
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
   },
   "dependencies": {
-    "vite": "^3.2.4"
+    "vite": "^3.0.9"
   }
 }
