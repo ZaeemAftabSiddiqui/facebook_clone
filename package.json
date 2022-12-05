@@ -1,0 +1,17 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "This is project for practice tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "vite": "^3.2.4"
+  }
+}
