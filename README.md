@@ -1,6 +1,6 @@
 # Facebook Clone Website with Tailwind CSS
 
-This repository contains the code for a clone website of Facebook, built using HTML, CSS, JavaScript and using Tailwind CSS as the CSS framework. The website includes the homepage.
+This repository contains the code for a clone website of Facebook, built using HTML, CSS, JavaScript and using Tailwind CSS as the CSS framework. The website includes the Login page.
 
 Getting Started
 
